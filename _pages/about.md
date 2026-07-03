@@ -24,7 +24,7 @@ Lixin Zhan obtained the M.S. degree in computer technology from Nanchang Univers
 
 # 🔥 News
 
-- *2026.06*: &nbsp;🎉🎉 One paper is accepted by NN! Congrats to Tianjian!
+- *2026.07*: &nbsp;🎉🎉 One paper is accepted by NN! Congrats to Tianjian!
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by ESWA! Congrats to Ruiqi!
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by Computer Science and selected as the cover article! Congrats to Wenjie! 
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML! Congrats to Xinpeng! 
