@@ -104,6 +104,7 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 
 # 💬 ACTIVITIES
 ## Reviewer
+- *IEEE Transactions on Circuits and Systems for Video*
 - *IEEE Transactions on Industrial Informatics*
 - *The Visual Computer*
 - *ICML, 2026*
