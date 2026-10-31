@@ -47,11 +47,6 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 
 \# : joint first author   \* :corresponding author
 
-## Medical Image Segmentation
-
-* **[SR] Unsupervised Domain Adaptation Teacher-Student Network for Retinal Vessel Segmentation via Full-Resolution Refined Model**<br>
-  Kejuan Yue, **Lixin Zhan** \*, and Zheng Wang. *Scientific Reports*, 2025.
-
 ## 3D Computer Vision
 
 * **[ICML2026] Rh-3DGS: Robust Open-Vocabulary Scene Understanding via Riemannian Huber Distillation and Manifold-Aware Sampling**<br>
@@ -93,10 +88,9 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2026.10* 2026年中国科协青年科技人才培育工程博士生专项计划
+- *2026.10* 中国科协青年科技人才培育工程博士生专项计划
 - *2025.12* National Scholarship (Ph.D). 
 - *2023.12* National Scholarship (M.E.). 
-
 
 
 # 📖 Educations
@@ -114,8 +108,8 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 - *ICME, 2025-2026*
 
 # 💻 Funding
-- *2026 - 2028*, Youth Student Basic Research Program of the Hunan Provincial Natural Science Foundation, Toward 3D Semantic Perception with Limited Annotations in Open Environments, $50000 CNY, PI.
-- *2025 - 2027*, Postgraduate Research Innovation Program of Hunan Province, Research Technologies for Semantic Understanding of 3D Scenes under Sparse Supervision, $30000 CNY, PI.
+- *2026 - 2028*, Youth Student Basic Research Program of the Hunan Provincial Natural Science Foundation, Toward 3D Semantic Perception with Limited Annotations in Open Environments (省自科), $50000 CNY, PI.
+- *2025 - 2027*, Postgraduate Research Innovation Program of Hunan Province, Research Technologies for Semantic Understanding of 3D Scenes under Sparse Supervision (省研创), $30000 CNY, PI.
 
 
 
