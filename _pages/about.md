@@ -93,7 +93,7 @@ Please find my full paper list at my [**Google Scholar**](https://scholar.google
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2026.10* 2026 中国科协青年科技人才培育工程博士生专项计划
+- *2026.10* 2026年中国科协青年科技人才培育工程博士生专项计划
 - *2025.12* National Scholarship (Ph.D). 
 - *2023.12* National Scholarship (M.E.). 
 
